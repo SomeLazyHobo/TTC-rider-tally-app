@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC8Q_1ZL26mX_76xUT5CkLS14Fxz5FMDawoA&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#tally-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: slategray;
+}
+
+#entryBox {
+    border: none;
+
+    background: maroon;
+    color: white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
